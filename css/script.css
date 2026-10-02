@@ -1,0 +1,21 @@
+#inpTxt{
+    position: absolute;
+    top: 47%;
+    left: 40%;
+    padding: 25px 90px;
+    border-radius: 10px;
+
+}
+#btnVc{
+    position: absolute;
+    top: 47%;
+    left: 60%;
+    padding: 25px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+h1{
+    position: absolute;
+    top: 33%;
+    left: 37%;
+}
